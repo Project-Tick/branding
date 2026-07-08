@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="546mm"
+   height="194mm"
+   viewBox="0 0 4861.7739 8277.3333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="UppFinna_text_applied.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.19230159"
+     inkscape:cx="1175.2373"
+     inkscape:cy="657.82087"
+     inkscape:window-width="1470"
+     inkscape:window-height="816"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="swatch2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.264999;paint-order:markers fill stroke"
+         id="rect7"
+         width="922.46198"
+         height="763.75885"
+         x="19.1325"
+         y="20.1325"
+         transform="rotate(45)" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g20"
+       transform="matrix(7.9164991,0,0,7.9164991,-9080.0268,81.251273)">
+      <g
+         id="g19">
+        <rect
+           class="tanuki-shape tanuki"
+           style="fill:#ffa500;fill-opacity:1;stroke-width:0.194577"
+           id="rect1-7"
+           width="171.84564"
+           height="628.63495"
+           x="828"
+           y="20" />
+        <rect
+           class="tanuki-shape right-cheek"
+           style="fill:#ffa500;fill-opacity:1;stroke-width:0.194539"
+           id="rect1-7-5-5"
+           width="171.84564"
+           height="628.39044"
+           x="828"
+           y="-648.3905"
+           transform="rotate(90)" />
+        <rect
+           class="tanuki-shape chin"
+           style="fill:#ffa500;fill-opacity:1;stroke-width:0.242957"
+           id="rect1"
+           width="171.84564"
+           height="980.11212"
+           x="19"
+           y="20" />
+        <rect
+           class="tanuki-shape left-cheek"
+           style="fill:#ffa500;fill-opacity:1;stroke-width:0.242949"
+           id="rect1-7-5"
+           width="171.84599"
+           height="980.04517"
+           x="20"
+           y="-999.04517"
+           transform="rotate(90)" />
+      </g>
+      <g
+         id="g6">
+        <rect
+           style="fill:#ff003c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2"
+           width="342"
+           height="342"
+           x="658.13251"
+           y="658.13251"
+           inkscape:label="redblock" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3583.41px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:44.8629;paint-order:markers fill stroke"
+       x="1771.7139"
+       y="3035.0408"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3583.41px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:44.8632"
+         x="1771.7139"
+         y="3035.0408">Upp</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3583.41px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:44.8632"
+         x="1771.7139"
+         y="7514.3032"
+         id="tspan2">Finna</tspan></text>
+  </g>
+</svg>
