@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024mm"
+   height="1024mm"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="UppFinna-Git.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.15507917"
+     inkscape:cx="164.43214"
+     inkscape:cy="1315.4571"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="swatch2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.264999;paint-order:markers fill stroke"
+         id="rect7"
+         width="922.46198"
+         height="763.75885"
+         x="19.1325"
+         y="20.1325"
+         transform="rotate(45)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6-5">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.264999;paint-order:markers fill stroke"
+         id="rect7-7"
+         width="922.46198"
+         height="763.75885"
+         x="19.1325"
+         y="20.1325"
+         transform="rotate(45)" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g20"
+       transform="matrix(0.73887414,0,0,0.73887414,135.44066,135.59824)">
+      <g
+         id="g19">
+        <rect
+           class="tanuki-shape tanuki"
+           style="fill:#ffc965;fill-opacity:1;stroke-width:0.194577"
+           id="rect1-7"
+           width="171.84564"
+           height="628.63495"
+           x="828"
+           y="20" />
+        <rect
+           class="tanuki-shape right-cheek"
+           style="fill:#eb9900;fill-opacity:1;stroke-width:0.194539"
+           id="rect1-7-5-5"
+           width="171.84564"
+           height="628.39044"
+           x="828"
+           y="-648.3905"
+           transform="rotate(90)" />
+        <rect
+           class="tanuki-shape chin"
+           style="fill:#ffa503;fill-opacity:1;stroke-width:0.242957"
+           id="rect1"
+           width="171.84564"
+           height="980.11212"
+           x="19"
+           y="20" />
+        <rect
+           class="tanuki-shape left-cheek"
+           style="fill:#ffb327;fill-opacity:1;stroke-width:0.242949"
+           id="rect1-7-5"
+           width="171.84599"
+           height="980.04517"
+           x="20"
+           y="-999.04517"
+           transform="rotate(90)" />
+      </g>
+      <g
+         id="g6">
+        <rect
+           style="fill:#ff003c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2"
+           width="342"
+           height="342"
+           x="658.13251"
+           y="658.13251"
+           inkscape:label="redblock" />
+      </g>
+    </g>
+    <g
+       id="g20-9"
+       transform="matrix(0.53991742,0.50440477,-0.50440477,0.53991742,494.14873,-19.968539)">
+      <g
+         id="g19-1">
+        <rect
+           class="tanuki-shape tanuki"
+           style="fill:#ffc965;fill-opacity:1;stroke-width:0.194577"
+           id="rect1-7-2"
+           width="171.84564"
+           height="628.63495"
+           x="828"
+           y="20" />
+        <rect
+           class="tanuki-shape right-cheek"
+           style="fill:#eb9900;fill-opacity:1;stroke-width:0.194539"
+           id="rect1-7-5-5-7"
+           width="171.84564"
+           height="628.39044"
+           x="828"
+           y="-648.3905"
+           transform="rotate(90)" />
+        <rect
+           class="tanuki-shape chin"
+           style="fill:#ffa503;fill-opacity:1;stroke-width:0.242957"
+           id="rect1-0"
+           width="171.84564"
+           height="980.11212"
+           x="19"
+           y="20" />
+        <rect
+           class="tanuki-shape left-cheek"
+           style="fill:#ffb327;fill-opacity:1;stroke-width:0.242949"
+           id="rect1-7-5-9"
+           width="171.84599"
+           height="980.04517"
+           x="20"
+           y="-999.04517"
+           transform="rotate(90)" />
+      </g>
+      <g
+         id="g6-3">
+        <rect
+           style="fill:#ff003c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect2-6"
+           width="342"
+           height="342"
+           x="658.13251"
+           y="658.13251"
+           inkscape:label="redblock" />
+      </g>
+    </g>
+    <path
+       d="M 738.09929,491.98816 532.56663,286.4656 c -11.83015,-11.83593 -31.02708,-11.83672 -42.87117,2e-5 l -42.67995,42.67994 54.14156,54.14156 c 12.58146,-4.25141 27.00918,-1.3994 37.03836,8.62977 10.07716,10.09331 12.90878,24.64443 8.55433,37.26635 l 52.17788,52.17933 c 12.62377,-4.34891 27.18938,-1.53547 37.27186,8.56357 14.0913,14.08555 14.09118,36.9151 0,51.00999 -14.09507,14.0965 -36.92431,14.09669 -51.02655,3e-5 -10.59969,-10.60978 -13.21772,-26.17619 -7.85193,-39.23397 l -48.65991,-48.65991 -0.004,128.05273 a 36.446213,36.446213 0 0 1 9.54004,6.82216 c 14.09131,14.08554 14.09113,36.91698 -10e-6,51.02286 -14.09498,14.08921 -36.93536,14.08936 -51.00998,0 -14.09047,-14.10662 -14.09119,-36.93537 -3e-5,-51.02102 a 36.140964,36.140964 0 0 1 11.80733,-7.87215 l -10e-4,-129.24524 a 35.633436,35.633436 0 0 1 -11.80837,-7.87216 c -10.67715,-10.66101 -13.24347,-26.32697 -7.77285,-39.43621 L 426.04116,350.11651 285.11047,491.03712 c -11.84212,11.84788 -11.84224,31.04731 -1e-5,42.88589 l 205.53633,205.52623 c 11.83294,11.83872 31.02709,11.83859 42.87483,2e-5 l 204.5744,-204.57181 c 11.83896,-11.84183 11.83854,-31.05282 -2e-5,-42.88957"
+       fill="#de4c36"
+       id="path1"
+       style="stroke-width:1.83886" />
+  </g>
+</svg>
